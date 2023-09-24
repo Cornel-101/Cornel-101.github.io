@@ -1,5 +1,5 @@
 header:
-  - titles:
+  - titles: Page1
     /page1.html
   - titles:
       # @start locale config
