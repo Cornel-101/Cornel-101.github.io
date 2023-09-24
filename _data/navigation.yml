@@ -1,5 +1,7 @@
 header:
   - titles:
+    /page1.html
+  - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
